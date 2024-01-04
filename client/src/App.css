@@ -1,0 +1,20 @@
+#home{
+    background: rgb(0, 101, 219);
+    background: linear-gradient(90deg, rgb(22, 112, 202) 50%, rgb(104, 184, 233) 100%);
+    min-height: 700px;
+}
+.custom-margin-left {
+    margin-left: 2.5rem; /* Adjust the margin value as needed */
+  }
+.custom-margin-top {
+    margin-top: 5.0rem; /* Adjust the margin value as needed */
+  }
+.form{
+  background: rgb(0, 101, 219);
+    background: linear-gradient(90deg, rgb(22, 112, 202) 50%, rgb(104, 184, 233) 100%);
+    min-height: 500px;
+}
+.login-container {
+  border: 3px solid black; /* Add a black border to the container */
+}
+
